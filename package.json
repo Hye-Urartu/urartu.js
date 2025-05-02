@@ -1,0 +1,15 @@
+{
+  "name": "urartu",
+  "version": "0.0.6",
+  "description": "Hye Urartu Node Module",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Hye Company",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "jose": "^6.0.10"
+  }
+}
